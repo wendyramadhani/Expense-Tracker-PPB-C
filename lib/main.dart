@@ -54,6 +54,7 @@ class _ExpenseTrackerState extends State<ExpenseTracker> {
     }
   }
 
+  //src: chatgpt untuk pop up form di edit, saya ganti pada tipedata di list nya karena pada chatgpt hanya string biasa listnya
   void _editExpense(int index) {
     _titleController.text = expenses[index]['title']!;
     _amountController.text = expenses[index]['amount']!;
