@@ -1,7 +1,9 @@
 # Expense-Tracker-PPB-C-
 Expense Tracker untuk tugas PPB C
 
-Link Video : https://drive.google.com/file/d/1J8XXOe9Pv1U8CCG9ltHUZ5AVrcNaoCNW/view?usp=drive_link
+Link Video : https://youtu.be/0vdyF6YiS34
+
+Referensi aplikasi : ide sendiri namun ada beberapa style yang mengambil dari ChatGPT
 
 
 ## Getting Started
