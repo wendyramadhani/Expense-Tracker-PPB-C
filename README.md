@@ -1,6 +1,6 @@
-# expense_tracker
+# Expense-Tracker-PPB-C-
+Expense Tracker untuk tugas PPB C
 
-A new Flutter project.
 
 ## Getting Started
 
